@@ -9,13 +9,13 @@ TextFS based on the Minix File System and provide several system calls like mkfs
 
 ## Authors
 
-Christian Jürgens - main developer (christian.textfs@gmail.com)
+Christian Jürgens - main developer (christian.textfs@gmail.com)                                                               
 Dirk Klingenberg  - main developer (blademountain35@gmail.com)
 
 ## Mentor
 
-Prof. Dr. Carsten Link,
-University of Applied Sciences Emden/Leer
+Prof. Dr. Carsten Link,                                                                                                       
+University of Applied Sciences Emden/Leer                                                                                     
 Faculty of Technology
 
 ## Download
@@ -39,5 +39,5 @@ For usage instructions just type:
    
 ## Credits
 
-[SFML](http://www.sfml-dev.org/)
+[SFML](http://www.sfml-dev.org/)                                                                                             
 [mfs-tool](https://sourceforge.net/projects/mfstool/)
