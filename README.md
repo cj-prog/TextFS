@@ -7,6 +7,8 @@ TextFS - The file system in a text file.
 
 TextFS based on the Minix File System and provide several system calls like mkfs, mkdir, add and dir, as well it visualizes the structure of the file system in a window based CSFML tool. 
 
+Example file system: [TextFS.txt](https://github.com/cj-prog/TextFS/blob/master/examples/TextFS.txt).
+
 ## Authors
 
 Christian Jürgens - main developer (christian.textfs@gmail.com)                                                               
