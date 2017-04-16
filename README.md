@@ -36,7 +36,14 @@ This shell script installs needed dependencies and auto-generate files for SFML 
 
 For usage instructions just type:
         
-         ~/home/user/workspace/TextFS$ ./TextFS   
+         ./TextFS   
+	 
+## Example
+
+Simple example create file system and visualize it:
+
+         ./TextFS TextFS.txt mkfs
+         ./TextFS TextFS.txt sfml	
    
    
 ## Credits
